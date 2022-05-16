@@ -135,7 +135,7 @@ Scaphandre est un agent de monitoring de consommation énergétique plus génér
 >cd scaphandre/docker-compose  
 >docker-compose up -d  
 
-Cela va permettre de lancé scaphandre facilement et d'avoir graphana et prometheus de lancer en même temps. Graphana sera disponible a l'adresse suivante <http://localhost:3000>  avec les identifiants suivant :
+Cela va permettre de lancer scaphandre facilement et d'avoir graphana et prometheus opérationnel en même temps. Graphana sera disponible à l'adresse suivante <http://localhost:3000>  avec les identifiants suivant :
 - login : admin
 - password : secret
 
