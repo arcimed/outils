@@ -34,7 +34,9 @@ ____
 
 >./jouleit.sh cmd
 
-<img src="images/jouleit.png">
+<center>
+<img src="images\jouleit.PNG" style="width : 600px ">
+</center>
 
 ### virtual Watts
 #### **Sensor**
@@ -139,8 +141,9 @@ Cela va permettre de lancer scaphandre facilement et d'avoir graphana et prometh
 - login : admin
 - password : secret
 
-<img src="images\scaphandre.png">
-
+<center>
+<img src="images\scaphandre.PNG" style="width : 600px ">
+</center>
 ____
 
 ## EcoCode
@@ -151,7 +154,7 @@ EcoCode utilise SonarQube pour tester le code de l'application sous différents 
 - Python
 - Android
 
-EcoCode va permettre de donnés une note globales au code sur son eco conception, mais aussi les points possbiles améliorer a l'aide des retours de SonarQube
+EcoCode va permettre de donner une note globale au code sur son eco conception, mais aussi les points possbiles améliorer à l'aide des retours de SonarQube
 
 ### Installation
 
@@ -175,11 +178,15 @@ Cloud carbon footprint est une application rapide a installer sur toutes distrib
 - Azure  
 - GCP  
 
-<img src="images\cloud1.PNG">
+<center>
+<img src="images\cloud1.PNG" style="width : 600px ">
+</center>
 
 De plus, l'application propose des recommandations d'amélioration pour chaque Cloud provider montrant les gains financier et écologique possibles. Cet outils demande un accès au compte du cloud provider il ne sera donc pas utile au développeur mais uniquement au gestionnaires du cloud.
 
-<img src="images\cloud2.PNG">
+<center>
+<img src="images\cloud2.PNG" style="width : 600px ">
+</center>
 
 ### Environnement
 
@@ -199,3 +206,76 @@ Yarn
 
 >yarn install  
 >yarn start  
+
+____
+
+## Impactomètre
+
+Impactomètre est un site internet permettant d'évaluer la différence entre plusieurs réunion, cela sert plus a titre informatif et permet de définir des échelles a ne pas dépasser lors de réunions pour le respect de l'environnement.  
+<center>
+<img src="images\impactometre.PNG" style="width : 600px ">
+</center>
+
+____
+
+## EcoDiag
+
+EcoDiag est un site internet qui permet de mesurer la consommation éléctrique des appareil éléctronique (ordinateurs, serveurs, portables, ...) d'une entreprise ainsi que leur coût de fabrication en CO2.
+
+<center>
+<img src="images\ecoDiag.PNG" style="width : 600px ">
+</center>
+
+____
+
+## Carbonalyser
+
+Carbonalyser est un add-on firefox permettant de faire un audit basic de la navigation réalisée par l'utilisateur sur le moteur de recherche, il va ainsi donnée une idée de la consommation éléctrique et de CO2 mais aussi la bande passante utilisé.
+
+<center>
+<img src="images\carbonalyser.PNG" style="width : 500px;height : 600px">
+</center>
+
+____
+
+## PageSpeed Insight
+
+PageSpeed Insight est un outil de mesure des performance d'une page internet, cela permet notamment d'évaluer la rapiditer d'affichage, les différentes étapes d'affichages, le temps avant de pouvoir intéragir, ect.  
+De plus cet outils fournit des opportunités et des conseil possibles pour améliorer la page du site internet. Ces indicateurs sont primordiaux pour l'ecoconception d'un site qui se base sur la durée de vie de celui-ci ainsi que sur son utilisation, son chargement, etc.
+
+<center>
+<img src="images\pageSpeed1.PNG" style="width : 600px">
+<img src="images\pageSpeed2.PNG" style="width : 600px">
+</center>
+
+____
+
+## GreenIT-analysis
+
+GreenIT-analysis est une extensions chrome permettant de réaliser un audit d'une page web, cela donne plusieurs indicateurs :  
+- EcoIndex  
+- Eau  
+- CO2
+- Nombre de requête
+- Taille de la page
+- Taille du DOM
+
+De plus l'extensions permet de données des conseils et bonnes pratique a réalisées pour améliorer l'empreinte carbon de la page.
+
+<center>
+<img src="images\GreenIT.PNG" style="width : 600px">
+</center>
+
+____
+
+## Estimator
+
+Estimator est un site internet permettant de mesure les améliorations possibles d'une page si le javascript de celle-ci est mise a jour. Cela permet notamment de donnée plusieur indicateur des calculs et une ordre d'idée de la vitesse gagnée.
+
+<center>
+<img src="images\estimator.PNG" style="width : 600px">
+</center>
+
+____
+
+## Estimator
