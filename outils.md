@@ -2,6 +2,8 @@
 
 ## Argos
 
+<https://github.com/marmelab/argos>
+
 ### Environnement
 
 Docker  
@@ -24,6 +26,9 @@ Make : sudo apt install make
 ____
 
 ## Power API
+
+<https://powerapi-ng.github.io/>
+
 ### Jouleit
 #### **Installation**
 
@@ -127,6 +132,8 @@ ____
 
 Scaphandre est un agent de monitoring de consommation énergétique plus générale, en effet Scaphandre est disponible pour toutes les distributions et est facilement implémentable dans docker.
 
+<https://github.com/hubblo-org/scaphandre/>
+
 ### installation rapide
 
 >docker run -v /sys/class/powercap:/sys/class/powercap -v /proc:/proc -ti hubblo/scaphandre stdout -t 15
@@ -154,7 +161,9 @@ EcoCode utilise SonarQube pour tester le code de l'application sous différents 
 - Python
 - Android
 
-EcoCode va permettre de donner une note globale au code sur son eco conception, mais aussi les points possbiles améliorer à l'aide des retours de SonarQube
+EcoCode va permettre de donner une note globale au code sur son eco conception, mais aussi les points possbiles améliorer à l'aide des retours de SonarQube.
+
+<https://github.com/cnumr/SonarQube>
 
 ### Installation
 
@@ -172,6 +181,8 @@ Après avoir lancés EcoCode l'application sera disponible a cette adresse <http
 ____
 
 ## Cloud Carbon Footprint
+
+<https://www.cloudcarbonfootprint.org/>
 
 Cloud carbon footprint est une application rapide a installer sur toutes distribution, elle permet de mesurer les émissions de CO2 par les différents clouds providers :  
 - AWS  
@@ -211,7 +222,10 @@ ____
 
 ## Impactomètre
 
-Impactomètre est un site internet permettant d'évaluer la différence entre plusieurs réunion, cela sert plus a titre informatif et permet de définir des échelles a ne pas dépasser lors de réunions pour le respect de l'environnement.  
+Impactomètre est un site internet permettant d'évaluer la différence entre plusieurs réunion, cela sert plus a titre informatif et permet de définir des échelles a ne pas dépasser lors de réunions pour le respect de l'environnement.
+
+<https://impactometre.fr/> 
+
 <center>
 <img src="images\impactometre.PNG" style="width : 600px ">
 </center>
@@ -221,6 +235,8 @@ ____
 ## EcoDiag
 
 EcoDiag est un site internet qui permet de mesurer la consommation éléctrique des appareil éléctronique (ordinateurs, serveurs, portables, ...) d'une entreprise ainsi que leur coût de fabrication en CO2.
+
+<https://ecoinfo.cnrs.fr/ecodiag-calcul/>
 
 <center>
 <img src="images\ecoDiag.PNG" style="width : 600px ">
@@ -232,6 +248,8 @@ ____
 
 Carbonalyser est un add-on firefox permettant de faire un audit basic de la navigation réalisée par l'utilisateur sur le moteur de recherche, il va ainsi donnée une idée de la consommation éléctrique et de CO2 mais aussi la bande passante utilisé.
 
+<https://theshiftproject.org/carbonalyser-extension-navigateur/>
+
 <center>
 <img src="images\carbonalyser.PNG" style="width : 500px;height : 600px">
 </center>
@@ -242,6 +260,8 @@ ____
 
 PageSpeed Insight est un outil de mesure des performance d'une page internet, cela permet notamment d'évaluer la rapiditer d'affichage, les différentes étapes d'affichages, le temps avant de pouvoir intéragir, ect.  
 De plus cet outils fournit des opportunités et des conseil possibles pour améliorer la page du site internet. Ces indicateurs sont primordiaux pour l'ecoconception d'un site qui se base sur la durée de vie de celui-ci ainsi que sur son utilisation, son chargement, etc.
+
+<https://developers.google.com/speed/pagespeed/insights/>
 
 <center>
 <img src="images\pageSpeed1.PNG" style="width : 600px">
@@ -262,6 +282,8 @@ GreenIT-analysis est une extensions chrome permettant de réaliser un audit d'un
 
 De plus l'extensions permet de données des conseils et bonnes pratique a réalisées pour améliorer l'empreinte carbon de la page.
 
+<https://github.com/cnumr/GreenIT-Analysis>
+
 <center>
 <img src="images\GreenIT.PNG" style="width : 600px">
 </center>
@@ -272,10 +294,12 @@ ____
 
 Estimator est un site internet permettant de mesure les améliorations possibles d'une page si le javascript de celle-ci est mise a jour. Cela permet notamment de donnée plusieur indicateur des calculs et une ordre d'idée de la vitesse gagnée.
 
+<https://estimator.dev/>
+
 <center>
 <img src="images\estimator.PNG" style="width : 600px">
 </center>
 
 ____
 
-## Estimator
+## Joulemeter
