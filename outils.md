@@ -302,4 +302,66 @@ Estimator est un site internet permettant de mesure les améliorations possibles
 
 ____
 
-## Joulemeter
+## Ecograder
+
+<https://ecograder.com/>
+
+Ecograder est un site internet permettant de calculer plusieurs facteur d'une page internet :
+- UX
+- Page size
+- Performance
+- Hébergeur
+
+Ce site internet permet aussi de donnée des conseils d'informations et de présenter les points les plus problématique a corriger.
+<center>
+<img src="images\ecograder.PNG" style="width : 600px">
+<img src="images\ecograder2.PNG" style="width : 600px">
+</center>
+
+____
+
+## Wave
+
+<https://wave.webaim.org/>
+
+Wave est un site internet qui permet de vérifier l'accessibilité d'une page internet, cela donne des bonnes indication et les éléments pour améliorer chaque éléments de la page.
+<center>
+<img src="images\wave.PNG" style="width : 600px">
+</center>
+
+____
+
+## Greenspector
+
+<https://greenspector.com/fr/accueil/>
+
+Greespector est un site internet qui fait un audit d'un site internet et renvoie les données par mail, cet audit est plus axées sur la consommation énergétique du site sur un téléphone et permet de donner quelque idée d'amélioration possible.
+
+<center>
+<img src="images\greenspector.PNG" style="width : 600px">
+</center>
+
+____
+
+## Website Carbon Badge
+
+<https://www.websitecarbon.com/badge/>
+
+Website Carbon Badge est un badge a rajouter sur les pages internet d'un site pour mesurer sa production de carbon par visites et pouvoir ainsi mettre en avant l'ecoconception de ce site internet.
+
+<center>
+<img src="images\badge.PNG" style="width : 600px">
+</center>
+
+____
+
+## Gmetrix
+
+<https://gtmetrix.com/>
+
+Gmetrix est un site internet permettant de faire un audit d'un site internet sur ces performance majoritairement, mais cela peut être reporté pour de l'écoconception facilement, des rapport peuvent etre automatisé pour des site par un service de monitoring.
+
+<center>
+<img src="images\gmetrix.PNG" style="width : 600px">
+</center>
+
