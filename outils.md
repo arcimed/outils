@@ -365,3 +365,48 @@ Gmetrix est un site internet permettant de faire un audit d'un site internet sur
 <img src="images\gmetrix.PNG" style="width : 600px">
 </center>
 
+____
+
+## Pingdom
+
+<https://tools.pingdom.com/>
+
+Pingdom est un outils anglais d'audit de page il permet de mesurer les requete, le DNS, les éléments comprésser, et les élément de la page par taille.
+
+<center>
+<img src="images\pingdom.PNG" style="width : 600px">
+</center>
+
+____
+
+## ShortPixel
+
+<https://shortpixel.com/image-compression-test/#cruncher>
+
+ShortPixel est un site permettant de faire un audit d'une page internet, ce site permet d'identifier les images trop lours compressable et de les compresser.
+
+<center>
+<img src="images\shortPixel.PNG" style="width : 600px">
+</center>
+
+____
+
+## WebPagetest
+
+WebPagetest est un site internet qui permet de faire des audit extrêmement complet de performance, il permet ainsi d'analyser les points suivants :
+- Chargement de la page
+- Détails des requêtes
+- Détails du contenu
+- Domaine
+- Analyse des images
+- Mappage des requêtes
+- Analyse de la sécurité
+
+<https://webpagetest.org/>
+
+<center>
+<img src="images\webPageDetail.PNG" style="width : 600px">
+<img src="images\webPageImage.PNG" style="width : 600px">
+<img src="images\webPageSecurity.PNG" style="width : 600px">
+</center>
+
