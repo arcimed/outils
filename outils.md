@@ -411,6 +411,8 @@ WebPagetest est un site internet qui permet de faire des audits extrêmement com
 <img src="images\webPageSecurity.PNG" style="width : 600px">
 </center>
 
+____
+
 ## DareBoost
 
 <https://www.dareboost.com/fr>
@@ -421,3 +423,44 @@ Les rapports générés par Dareboost sont sûrement les plus complets que tu po
 <center>
 <img src="images\DareBoost.PNG" style="width : 600px">
 </center>
+
+____
+
+## Coverage
+
+Coverage est un outils de dévelopement disponible dans le devtools des navigateur par 'ctrl' + 'shift' + 'p'. Cela permet d'identifer le code, le CSS et le JS qui est inutiliser dans les pages visitées tous au long d'une recherche. C'est un outils tres facile a mettre en place et a utiliser en tant que déveloper.
+
+<center>
+<img src="images\coverage.PNG" style="width : 600px">
+</center>
+
+____
+
+## TinyVid
+
+TinyVid est un logiciel gratuit permettant la compression de vidéo, plusieurs parametre sont modifiable, la qualité, les FPS mais il est aussi possible de définir la taille maximale d'une vidéo ou de compresser que une seul partie de la vidéo si besoin.
+
+<center>
+<img src="images\tinyvid.PNG" style="width : 600px">
+</center>
+
+____
+
+## Choix des outils
+
+Après les différents tests qui ont été réalisée sur tous les outils trouver concernant l'écoconception d'application web. Une liste des outils les plus pertinents, complets, utiles peut être dressé :
+
+- PowerApi
+- Scaphandre
+- SonarQube
+- Cloud Carbon footprint
+- EcoCode
+- The Green Web Foundation
+- EcoGrader
+- Wave
+- Gmetrix
+- ImageOptim
+- Handbrake
+- FontSubset
+- WebpageTest
+- Coverage
