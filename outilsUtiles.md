@@ -37,7 +37,7 @@ Ces deux outils d'audit de site internet sont très complets sur la performance 
 ## ImageOptim et TinyVid et FontSubset
 
 Ces trois outils sont très complémentaires et vont chacun se spécialiser dans une partie de l'optimisation du design ImageOptim permet d'optimiser toutes les images sous les différents formats et de les compresser facilement avec plusieurs réglages. TinyVid permet la compression et l'optimisation de vidéo qui peuvent être très utilisée dans certains sites. Quant à FontSubset il permet de réduire le poids des font en supprimant les caractères inutiles.
-Ces trois outils font partie de ceux qui peuvent le plus impacts les performances et la réduction du CO2 émit.
+Ces trois outils font partie de ceux qui peuvent le plus impactés les performances et la réduction du CO2 émit.
 
 ## EcoGrader
 
